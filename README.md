@@ -1,7 +1,7 @@
 ## Hi, I'm czubix 👋
 
 ### Currently working on:
-- ![fembot](https://cenzura.poligon.lgbt) - discord bot like any other
+- ![fembot](https://github.com/poligonteam/cenzura) - discord bot like any other
 - ![femscript](https://github.com/czubix/femscript) - scripting language written in rust for python
 
 ### What I use:
