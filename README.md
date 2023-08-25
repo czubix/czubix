@@ -2,7 +2,7 @@
 
 ### Currently working on:
 - ![fembot](https://cenzura.poligon.lgbt) - discord bot like any other
-- femscript - scripting language written in rust for python
+- ![femscript](https://github.com/czubix/femscript) - scripting language written in rust for python
 
 ### What I use:
 <a href="https://python.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"></a>
